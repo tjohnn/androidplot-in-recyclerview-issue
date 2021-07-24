@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.androidplot.xy.XYPlot xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/plot"
+    android:layout_height="150dp"
+    android:layout_width="match_parent"
+    app:paddingLeft="16dp"
+    app:paddingRight="16dp"
+    app:paddingTop="16dp"
+    app:paddingBottom="16dp"
+    app:backgroundColor="@color/white"
+    app:graphBackgroundColor="@color/white"
+    app:gridBackgroundColor="@color/white"
+    app:lineLabelTextColorBottom="@color/ap_gray"
+    app:lineLabelTextColorLeft="@color/ap_gray"
+    app:renderMode="use_background_thread"
+    android:layout_marginTop="40dp" />
